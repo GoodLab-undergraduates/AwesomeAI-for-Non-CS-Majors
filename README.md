@@ -25,7 +25,7 @@
 1. 克隆本仓库到本地：
 
    ```bash
-   git clone https://github.com/yourusername/AwesomeAI-for-Non-CS-Majors.git
+   git clone https://github.com/GoodLab-undergraduates/AwesomeAI-for-Non-CS-Majors.git
    ```
 
 2. 进入项目目录：
@@ -77,14 +77,15 @@
 
 5. 创建一个新的 Pull Request。
 
+   登录到你的 GitHub 账户，进入你的 Fork 仓库页面。
+   点击 “Compare & pull request” 按钮。
+   填写 Pull Request 的标题和描述，然后点击 “Create pull request” 按钮。
 
 ## 联系我们
 
 如果你有任何问题或建议，请随时联系我们：
 
-- 邮箱：yourname@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- 邮箱：torpedo0126@163.com
+- GitHub: [LEtorpedo](https://github.com/Letorpedo)
 
----
 
-你可以根据项目的具体情况和需求，对以上模板进行适当的修改和调整。如果有更多详细信息或特别要求，请告知我。
