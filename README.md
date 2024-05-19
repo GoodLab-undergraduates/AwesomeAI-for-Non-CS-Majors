@@ -1,5 +1,10 @@
 # 🚀 Awesome AI Tools Collection 🛠️
 
+## Introduction
+
+The era of AI has arrived 🌐, and it's usually the students of Computer Science 💻 and Technology who first come into contact with AI and receive AI education 🎓. However, I believe that even if you are not a student of computer science, it is necessary to delve into AI technology 🧠, cultivate an interest in AI ❤️, or receive preliminary AI education. Therefore, we have summarized and created this project 📚, aiming to help students who are not in computer science understand AI 🤖.
+
+
 ## 📝 Scientific Writing Assistant 📝
 
 ### Paperpal 📚
