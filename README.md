@@ -7,6 +7,41 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 
 ## 📝 Scientific Writing Assistant 📝
 
+### Grammerly 📝
+- **🌐 Official Website**: [Visit Grammerly](https://www.grammarly.com/)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/199.html)
+- **📖 User Manual**: [How to Use Grammerly](https://zhuanlan.zhihu.com/p/578882607)
+- **🔒 VPN Requirement**: Required
+- **🏷️ Category**: Text
+
+### Fanwen Miao 📝
+- **🌐 Official Website**: [Visit Fanwen Miao](https://ai.wolian.chat/openmao/#/ai/welcome?inviteCode=1745323733465174017)
+- **🧐 Introduction**: [Learn More](https://www.aihub.cn/tools/writing/ailunwen/)
+- **📖 User Manual**: [How to Use Fanwen Miao](https://www.aihub.cn/tools/writing/ailunwen/)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Text
+
+### Xinhua Miaobi 🖋️
+- **🌐 Official Website**: [Visit Xinhua Miaobi](https://miaobi.xinhuaskl.com/?channel=shuzhi)
+- **🧐 Introduction**: [Learn More](https://m.huanqiu.com/article/4Dq9Oo7EoZY)
+- **📖 User Manual**: [How to Use Xinhua Miaobi](https://www.zhihu.com/zvideo/1716432042689159168)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Text
+
+### Baidu Writer 📝
+- **🌐 Official Website**: [Visit Baidu Writer](https://zuojia.baidu.com/)
+- **🧐 Introduction**: [Learn More](https://baijiahao.baidu.com/s?id=1794483954294393412)
+- **📖 User Manual**: [How to Use Baidu Writer](https://baijiahao.baidu.com/s?id=1794857484478463637)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Text
+
+### yaara 📝
+- **🌐 Official Website**: [Visit yaara](https://www.yaara.ai/)
+- **🧐 Introduction**: [Learn More](https://www.nettsz.com/yaara-ai)
+- **📖 User Manual**: [How to Use yaara](https://www.toolify.ai/zh/ai-news-cn/%E5%A6%82%E4%BD%95%E7%94%A8yaara-ai%E8%BD%BB%E6%9D%BE%E6%92%B0%E5%86%99%E8%AE%BA%E6%96%87-%E5%88%86%E5%88%86%E9%92%9F%E5%88%9B%E4%BD%9C%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E5%BC%95%E4%BA%BA%E5%85%A5%E8%83%9C%E5%86%85%E5%AE%B9-469130)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Text
+- 
 ### Paperpal 📚
 - **🌐 Official Website**: [Visit Paperpal](https://www.editage.cn/paperpal?utm_source=ai-bot&utm_medium=Banner&utm_campaign=Banner)
 - **🧐 Introduction**: Tailored for scientific writing, enhancing the English writing experience for researchers. [Learn More](https://zhuanlan.zhihu.com/p/678554660)
@@ -23,7 +58,84 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **🔒 VPN Requirement**: Required
 - **🏷️ Category**: Dialogue
 
+- ### AiPaperPass 📝
+- **🌐 Official Website**: [Visit AiPaperPass](https://www.aipaperpass.com/?pic=7N9W)
+- **🧐 Introduction**: [Learn More](https://blog.csdn.net/q155281844/article/details/136994056)
+- **📖 User Manual**: [How to Use AiPaperPass](https://www.aipaperpass.com/article/intro)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Text
+
 ## 🎬 Video Generation Model 🎬
+
+### Runway 🎥
+- **🌐 Official Website**: [Visit Runway](https://runwayml.com/green-screen/)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/240.html)
+- **📖 User Manual**: [How to Use Runway](https://blog.csdn.net/qq_61813593/article/details/129740682)
+- **🔒 VPN Requirement**: Required
+- **🏷️ Category**: Video
+
+### Stable Video 📹
+- **🌐 Official Website**: [Visit Stable Video](https://www.stablevideo.com/login?returnUrl=%2F%3Futm_source%3Dai-bot.cn)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/240.html)
+- **📖 User Manual**: [How to Use Stable Video](https://zhuanlan.zhihu.com/p/684268253)
+- **🔒 VPN Requirement**: Required
+- **🏷️ Category**: Video
+
+### Frame-by-Frame Creation 🎬
+- **🌐 Official Website**: [Visit Frame-by-Frame Creation](https://aigc.yizhentv.com/?_f=botrm)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/1880.html)
+- **📖 User Manual**: [How to Use Frame-by-Frame Creation](https://aigc.yizhentv.com/help/3)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Video
+
+### Instant Creation 🎞️
+- **🌐 Official Website**: [Visit Instant Creation](https://aic.oceanengine.com/login)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/5560.html)
+- **📖 User Manual**: [How to Use Instant Creation](https://www.douyin.com/shipin/7299519613266659363)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Video
+
+### Baidu Deep Voice 🎙️
+- **🌐 Official Website**: [Visit Baidu Deep Voice](http://research.baidu.com/Downloads)
+- **🧐 Introduction**: [Learn More](http://research.baidu.com/Blog/index-view?id=91)
+- **📖 User Manual**: [How to Use Baidu Deep Voice](https://cloud.tencent.com/developer/article/1057442)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Audio
+
+### Dujia Creation Tool 🎥
+- **🌐 Official Website**: [Visit Dujia Creation Tool](https://aigc.baidu.com/welcome)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/2670.html)
+- **📖 User Manual**: [How to Use Dujia Creation Tool](https://www.yjpoo.com/article/3295.html)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Video
+
+### Tencent Zhiying 🎬
+- **🌐 Official Website**: [Visit Tencent Zhiying](https://zenvideo.qq.com/)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/360.html)
+- **📖 User Manual**: [How to Use Tencent Zhiying](https://kf.zenvideo.qq.com/help/doc?id=364b7da447737798)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Video
+
+### Kaipai 🎥
+- **🌐 Official Website**: [Visit Kaipai](https://www.kaipai.com/home?ref=ai-bot.cn)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/7280.html)
+- **📖 User Manual**: [How to Use Kaipai](https://ai-bot.cn/sites/7280.html)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Video
+
+### Pika 🎬
+- **🌐 Official Website**: [Visit Pika](https://pika.art/home)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/6263.html)
+- **📖 User Manual**: [How to Use Pika](https://www.uisdc.com/pika-labs)
+- **🔒 VPN Requirement**: Required
+- **🏷️ Category**: Video
+
+### Gen-2 🎥
+- **🌐 Official Website**: [Visit Gen-2](https://research.runwayml.com/gen2)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/1076.html)
+- **📖 User Manual**: [How to Use Gen-2](https://bestaiapp.org/app/cn/gen2)
+- **🔒 VPN Requirement**: Required
+- **🏷️ Category**: Video
 
 ### Sora 🎥
 - **🌐 Official Website**: [Sora by OpenAI](https://openai.com/sora?ref=ai-bot.cn)
@@ -33,6 +145,61 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **🏷️ Category**: Video
 *
 ## 🎵 Audio Generation Models 🎵
+### Suno 🎵
+- **🌐 Official Website**: [Visit Suno](https://suno.com/?ref=ai-bot.cn)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/6968.html)
+- **📖 User Manual**: [How to Use Suno](https://www.bilibili.com/video/BV1mJ4m1G7T1/)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Audio
+
+### TME studio 🎵
+- **🌐 Official Website**: [Visit TME studio](https://y.qq.com/tme_studio/index.html#/)
+- **🧐 Introduction**: [Learn More](https://blog.csdn.net/zjz_cn/article/details/137467912)
+- **📖 User Manual**: [How to Use TME studio](TME studio的使用方法)
+- **🔒 VPN Requirement**: Not needed
+- **🏷️ Category**: Audio
+
+### Brain.fm 🎧
+- **🌐 Official Website**: [Visit Brain.fm](https://my.brain.fm/)
+- **🧐 Introduction**: [Learn More](https://828ai.com/sites/339.html)
+- **📖 User Manual**: [How to Use Brain.fm](https://siy9wds5hho.feishu.cn/docx/HKxBdkSFAoLE1Yx0iR1ccwOOn9g)
+- **🔒 VPN Requirement**: Required
+- **🏷️ Category**: Audio
+
+### Krisp 🎤
+- **🌐 Official Website**: [Visit Krisp](https://krisp.ai/)
+- **🧐 Introduction**: [Learn More](https://828ai.com/sites/366.html)
+- **📖 User Manual**: [How to Use Krisp](Krisp的使用方法)
+- **🔒 VPN Requirement**: Required
+- **🏷️ Category**: Audio
+
+### IBM Watson (Requires programming skills) 🧠
+- **🌐 Official Website**: [Visit IBM Watson](https://www.ibm.com/products/text-to-speech)
+- **🧐 Introduction**: [Learn More](https://zhuanlan.zhihu.com/p/38469429)
+- **📖 User Manual**: [How to Use IBM Watson](https://blog.csdn.net/weixin_34004576/article/details/89080467)
+- **🔒 VPN Requirement**: No
+- **🏷️ Category**: Audio
+
+### Blue Algae AI 🌿
+- **🌐 Official Website**: [Visit Blue Algae AI](https://aigc.unisound.com/home)
+- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/10145.html)
+- **📖 User Manual**: [How to use Blue Algae AI](https://docs.qq.com/doc/DVUdRV1d6d2tRY1Ju)
+- **🔒 VPN Required**: No
+- **🏷️ Category**: Audio
+
+### BGM Cat 🐱
+- **🌐 Official Website**: [Visit BGM Cat](https://aigc.unisound.com/home)
+- **🧐 Introduction**: [Learn More](https://828ai.com/sites/361.html)
+- **📖 User Manual**: [How to use BGM Cat](https://zhuanlan.zhihu.com/p/646427909)
+- **🔒 VPN Required**: No
+- **🏷️ Category**: Audio
+
+### ElevenLabs 🧪
+- **🌐 Official Website**: [Visit ElevenLabs](https://elevenlabs.io/?pscd=try.elevenlabs.io&ps_partner_key=ZG9uYWxkY29vcGVyNjk1OA&ps_xid=mtIcruujhobqJ3&gsxid=mtIcruujhobqJ3&gspk=ZG9uYWxkY29vcGVyNjk1OA)
+- **🧐 Introduction**: [Learn More](https://zhuanlan.zhihu.com/p/684461941)
+- **📖 User Manual**: [How to use ElevenLabs](https://redpanday.com/elevenlabs-ai-tutorial/)
+- **🔒 VPN Required**: No
+- **🏷️ Category**: Audio
 
 ### OpenAI Jukebox 🎶
 - **🌐 Official Website**: [Visit OpenAI Jukebox](https://openai.com/research/jukebox)
@@ -134,125 +301,7 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **🔒 VPN Requirement**: Required
 - **🏷️ Category**: Image
 
-### Runway 🎥
-- **🌐 Official Website**: [Visit Runway](https://runwayml.com/green-screen/)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/240.html)
-- **📖 User Manual**: [How to Use Runway](https://blog.csdn.net/qq_61813593/article/details/129740682)
-- **🔒 VPN Requirement**: Required
-- **🏷️ Category**: Video
-
-### Stable Video 📹
-- **🌐 Official Website**: [Visit Stable Video](https://www.stablevideo.com/login?returnUrl=%2F%3Futm_source%3Dai-bot.cn)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/240.html)
-- **📖 User Manual**: [How to Use Stable Video](https://zhuanlan.zhihu.com/p/684268253)
-- **🔒 VPN Requirement**: Required
-- **🏷️ Category**: Video
-
-### Frame-by-Frame Creation 🎬
-- **🌐 Official Website**: [Visit Frame-by-Frame Creation](https://aigc.yizhentv.com/?_f=botrm)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/1880.html)
-- **📖 User Manual**: [How to Use Frame-by-Frame Creation](https://aigc.yizhentv.com/help/3)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Video
-
-### Instant Creation 🎞️
-- **🌐 Official Website**: [Visit Instant Creation](https://aic.oceanengine.com/login)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/5560.html)
-- **📖 User Manual**: [How to Use Instant Creation](https://www.douyin.com/shipin/7299519613266659363)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Video
-
-### Baidu Deep Voice 🎙️
-- **🌐 Official Website**: [Visit Baidu Deep Voice](http://research.baidu.com/Downloads)
-- **🧐 Introduction**: [Learn More](http://research.baidu.com/Blog/index-view?id=91)
-- **📖 User Manual**: [How to Use Baidu Deep Voice](https://cloud.tencent.com/developer/article/1057442)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Audio
-
-### Baidu Writer 📝
-- **🌐 Official Website**: [Visit Baidu Writer](https://zuojia.baidu.com/)
-- **🧐 Introduction**: [Learn More](https://baijiahao.baidu.com/s?id=1794483954294393412)
-- **📖 User Manual**: [How to Use Baidu Writer](https://baijiahao.baidu.com/s?id=1794857484478463637)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Text
-
-### Dujia Creation Tool 🎥
-- **🌐 Official Website**: [Visit Dujia Creation Tool](https://aigc.baidu.com/welcome)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/2670.html)
-- **📖 User Manual**: [How to Use Dujia Creation Tool](https://www.yjpoo.com/article/3295.html)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Video
-
-### Tencent Zhiying 🎬
-- **🌐 Official Website**: [Visit Tencent Zhiying](https://zenvideo.qq.com/)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/360.html)
-- **📖 User Manual**: [How to Use Tencent Zhiying](https://kf.zenvideo.qq.com/help/doc?id=364b7da447737798)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Video
-
-### Kaipai 🎥
-- **🌐 Official Website**: [Visit Kaipai](https://www.kaipai.com/home?ref=ai-bot.cn)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/7280.html)
-- **📖 User Manual**: [How to Use Kaipai](https://ai-bot.cn/sites/7280.html)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Video
-
-### Pika 🎬
-- **🌐 Official Website**: [Visit Pika](https://pika.art/home)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/6263.html)
-- **📖 User Manual**: [How to Use Pika](https://www.uisdc.com/pika-labs)
-- **🔒 VPN Requirement**: Required
-- **🏷️ Category**: Video
-
-### Gen-2 🎥
-- **🌐 Official Website**: [Visit Gen-2](https://research.runwayml.com/gen2)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/1076.html)
-- **📖 User Manual**: [How to Use Gen-2](https://bestaiapp.org/app/cn/gen2)
-- **🔒 VPN Requirement**: Required
-- **🏷️ Category**: Video
-
-### Suno 🎵
-- **🌐 Official Website**: [Visit Suno](https://suno.com/?ref=ai-bot.cn)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/6968.html)
-- **📖 User Manual**: [How to Use Suno](https://www.bilibili.com/video/BV1mJ4m1G7T1/)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Audio
-
-### Grammerly 📝
-- **🌐 Official Website**: [Visit Grammerly](https://www.grammarly.com/)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/199.html)
-- **📖 User Manual**: [How to Use Grammerly](https://zhuanlan.zhihu.com/p/578882607)
-- **🔒 VPN Requirement**: Required
-- **🏷️ Category**: Text
-
-### AiPaperPass 📝
-- **🌐 Official Website**: [Visit AiPaperPass](https://www.aipaperpass.com/?pic=7N9W)
-- **🧐 Introduction**: [Learn More](https://blog.csdn.net/q155281844/article/details/136994056)
-- **📖 User Manual**: [How to Use AiPaperPass](https://www.aipaperpass.com/article/intro)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Text
-
-### Fanwen Miao 📝
-- **🌐 Official Website**: [Visit Fanwen Miao](https://ai.wolian.chat/openmao/#/ai/welcome?inviteCode=1745323733465174017)
-- **🧐 Introduction**: [Learn More](https://www.aihub.cn/tools/writing/ailunwen/)
-- **📖 User Manual**: [How to Use Fanwen Miao](https://www.aihub.cn/tools/writing/ailunwen/)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Text
-
-### Xinhua Miaobi 🖋️
-- **🌐 Official Website**: [Visit Xinhua Miaobi](https://miaobi.xinhuaskl.com/?channel=shuzhi)
-- **🧐 Introduction**: [Learn More](https://m.huanqiu.com/article/4Dq9Oo7EoZY)
-- **📖 User Manual**: [How to Use Xinhua Miaobi](https://www.zhihu.com/zvideo/1716432042689159168)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Text
-
-### yaara 📝
-- **🌐 Official Website**: [Visit yaara](https://www.yaara.ai/)
-- **🧐 Introduction**: [Learn More](https://www.nettsz.com/yaara-ai)
-- **📖 User Manual**: [How to Use yaara](https://www.toolify.ai/zh/ai-news-cn/%E5%A6%82%E4%BD%95%E7%94%A8yaara-ai%E8%BD%BB%E6%9D%BE%E6%92%B0%E5%86%99%E8%AE%BA%E6%96%87-%E5%88%86%E5%88%86%E9%92%9F%E5%88%9B%E4%BD%9C%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E5%BC%95%E4%BA%BA%E5%85%A5%E8%83%9C%E5%86%85%E5%AE%B9-469130)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Text
-
+## Chat 🤖
 ### WeChat Dialogue Murder Mystery 🎭
 - **🌐 Official Website**: [Visit WeChat Dialogue Murder Mystery](https://github.com/bigbrother666sh/shezhangbujianle)
 - **🧐 Introduction**: [Learn More](https://zhuanlan.zhihu.com/p/506114829)
@@ -266,55 +315,6 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **📖 User Manual**: [How to Use Chatbot](https://github.com/lobehub/lobe-chat/wiki/Intro.zh-CN)
 - **🔒 VPN Requirement**: Not needed
 - **🏷️ Category**: Text
-
-### TME studio 🎵
-- **🌐 Official Website**: [Visit TME studio](https://y.qq.com/tme_studio/index.html#/)
-- **🧐 Introduction**: [Learn More](https://blog.csdn.net/zjz_cn/article/details/137467912)
-- **📖 User Manual**: [How to Use TME studio](TME studio的使用方法)
-- **🔒 VPN Requirement**: Not needed
-- **🏷️ Category**: Audio
-
-### Brain.fm 🎧
-- **🌐 Official Website**: [Visit Brain.fm](https://my.brain.fm/)
-- **🧐 Introduction**: [Learn More](https://828ai.com/sites/339.html)
-- **📖 User Manual**: [How to Use Brain.fm](https://siy9wds5hho.feishu.cn/docx/HKxBdkSFAoLE1Yx0iR1ccwOOn9g)
-- **🔒 VPN Requirement**: Required
-- **🏷️ Category**: Audio
-
-### Krisp 🎤
-- **🌐 Official Website**: [Visit Krisp](https://krisp.ai/)
-- **🧐 Introduction**: [Learn More](https://828ai.com/sites/366.html)
-- **📖 User Manual**: [How to Use Krisp](Krisp的使用方法)
-- **🔒 VPN Requirement**: Required
-- **🏷️ Category**: Audio
-
-### IBM Watson (Requires programming skills) 🧠
-- **🌐 Official Website**: [Visit IBM Watson](https://www.ibm.com/products/text-to-speech)
-- **🧐 Introduction**: [Learn More](https://zhuanlan.zhihu.com/p/38469429)
-- **📖 User Manual**: [How to Use IBM Watson](https://blog.csdn.net/weixin_34004576/article/details/89080467)
-- **🔒 VPN Requirement**: No
-- **🏷️ Category**: Audio
-
-### Blue Algae AI 🌿
-- **🌐 Official Website**: [Visit Blue Algae AI](https://aigc.unisound.com/home)
-- **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/10145.html)
-- **📖 User Manual**: [How to use Blue Algae AI](https://docs.qq.com/doc/DVUdRV1d6d2tRY1Ju)
-- **🔒 VPN Required**: No
-- **🏷️ Category**: Audio
-
-### BGM Cat 🐱
-- **🌐 Official Website**: [Visit BGM Cat](https://aigc.unisound.com/home)
-- **🧐 Introduction**: [Learn More](https://828ai.com/sites/361.html)
-- **📖 User Manual**: [How to use BGM Cat](https://zhuanlan.zhihu.com/p/646427909)
-- **🔒 VPN Required**: No
-- **🏷️ Category**: Audio
-
-### ElevenLabs 🧪
-- **🌐 Official Website**: [Visit ElevenLabs](https://elevenlabs.io/?pscd=try.elevenlabs.io&ps_partner_key=ZG9uYWxkY29vcGVyNjk1OA&ps_xid=mtIcruujhobqJ3&gsxid=mtIcruujhobqJ3&gspk=ZG9uYWxkY29vcGVyNjk1OA)
-- **🧐 Introduction**: [Learn More](https://zhuanlan.zhihu.com/p/684461941)
-- **📖 User Manual**: [How to use ElevenLabs](https://redpanday.com/elevenlabs-ai-tutorial/)
-- **🔒 VPN Required**: No
-- **🏷️ Category**: Audio
 
 ### LobeHub 🗣️
 - **🌐 Official Website**: [Visit LobeHub](https://chat-preview.lobehub.com/chat)
@@ -337,20 +337,6 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **🔒 VPN Required**: Yes
 - **🏷️ Category**: Conversation
 
-### Auto-GPT 🤖
-- **🌐 Official Website**: [Visit Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
-- **🧐 Introduction**: [Learn More](https://sspai.com/post/80121)
-- **📖 User Manual**: [How to use Auto-GPT](AutoGPT)
-- **🔒 VPN Required**: Yes
-- **🏷️ Category**: Proxy
-
-### Agent-GPT 🕵️‍♂️
-- **🌐 Official Website**: [Visit Agent-GPT](https://github.com/reworkd/AgentGPT)
-- **🧐 Introduction**: [Learn More](https://sspai.com/post/80121)
-- **📖 User Manual**: [How to use Agent-GPT](AgentGPT)
-- **🔒 VPN Required**: Yes
-- **🏷️ Category**: Proxy
-
 ### ChatGPT 🗣️
 - **🌐 Official Website**: [Visit ChatGPT](ChatGPT APP latest free download - Android and iOS mobile version | AI Toolset (ai-bot.cn))
 - **🧐 Introduction**: [Learn More](ChatGPT APP latest free download - Android and iOS mobile version | AI Toolset (ai-bot.cn))
@@ -371,6 +357,22 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **📖 User Manual**: [How to use Free ChatGPT Site List](Many free chatgpt usage sites)
 - **🔒 VPN Required**: Yes
 - **🏷️ Category**: Conversation
+
+
+## Agent AI 🤖
+### Auto-GPT 🤖
+- **🌐 Official Website**: [Visit Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
+- **🧐 Introduction**: [Learn More](https://sspai.com/post/80121)
+- **📖 User Manual**: [How to use Auto-GPT](AutoGPT)
+- **🔒 VPN Required**: Yes
+- **🏷️ Category**: Proxy
+
+### Agent-GPT 🕵️‍♂️
+- **🌐 Official Website**: [Visit Agent-GPT](https://github.com/reworkd/AgentGPT)
+- **🧐 Introduction**: [Learn More](https://sspai.com/post/80121)
+- **📖 User Manual**: [How to use Agent-GPT](AgentGPT)
+- **🔒 VPN Required**: Yes
+- **🏷️ Category**: Proxy
 
 ## 🤝 How to Contribute
 
