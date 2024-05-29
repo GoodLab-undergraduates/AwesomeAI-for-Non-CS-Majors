@@ -177,28 +177,28 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **🌐 Official Website**: [Visit IBM Watson](https://www.ibm.com/products/text-to-speech)
 - **🧐 Introduction**: [Learn More](https://zhuanlan.zhihu.com/p/38469429)
 - **📖 User Manual**: [How to Use IBM Watson](https://blog.csdn.net/weixin_34004576/article/details/89080467)
-- **🔒 VPN Requirement**: No
+- **🔒 VPN Requirement**: Not needed
 - **🏷️ Category**: Audio
 
 ### Blue Algae AI 🌿
 - **🌐 Official Website**: [Visit Blue Algae AI](https://aigc.unisound.com/home)
 - **🧐 Introduction**: [Learn More](https://ai-bot.cn/sites/10145.html)
 - **📖 User Manual**: [How to use Blue Algae AI](https://docs.qq.com/doc/DVUdRV1d6d2tRY1Ju)
-- **🔒 VPN Required**: No
+- **🔒 VPN Required**: Not needed
 - **🏷️ Category**: Audio
 
 ### BGM Cat 🐱
 - **🌐 Official Website**: [Visit BGM Cat](https://aigc.unisound.com/home)
 - **🧐 Introduction**: [Learn More](https://828ai.com/sites/361.html)
 - **📖 User Manual**: [How to use BGM Cat](https://zhuanlan.zhihu.com/p/646427909)
-- **🔒 VPN Required**: No
+- **🔒 VPN Required**: Not needed
 - **🏷️ Category**: Audio
 
 ### ElevenLabs 🧪
 - **🌐 Official Website**: [Visit ElevenLabs](https://elevenlabs.io/?pscd=try.elevenlabs.io&ps_partner_key=ZG9uYWxkY29vcGVyNjk1OA&ps_xid=mtIcruujhobqJ3&gsxid=mtIcruujhobqJ3&gspk=ZG9uYWxkY29vcGVyNjk1OA)
 - **🧐 Introduction**: [Learn More](https://zhuanlan.zhihu.com/p/684461941)
 - **📖 User Manual**: [How to use ElevenLabs](https://redpanday.com/elevenlabs-ai-tutorial/)
-- **🔒 VPN Required**: No
+- **🔒 VPN Required**: Not needed
 - **🏷️ Category**: Audio
 
 ### OpenAI Jukebox 🎶
@@ -320,42 +320,42 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **🌐 Official Website**: [Visit LobeHub](https://chat-preview.lobehub.com/chat)
 - **🧐 Introduction**: [Learn More](https://github.com/lobehub/lobe-chat/tree/main)
 - **📖 User Manual**: [How to use LobeHub](LobeHub User Manual)
-- **🔒 VPN Required**: No
+- **🔒 VPN Required**: Not needed
 - **🏷️ Category**: Conversation
 
 ### Kimi 🗨️
 - **🌐 Official Website**: [Visit Kimi](https://kimi.moonshot.cn/)
 - **🧐 Introduction**: [Learn More](https://kimi.moonshot.cn/)
 - **📖 User Manual**: Direct Use
-- **🔒 VPN Required**: No
+- **🔒 VPN Required**: Not needed
 - **🏷️ Category**: Conversation
 
 ### ChatYuan 💬
 - **🌐 Official Website**: [Visit ChatYuan](https://github.com/clue-ai/ChatYuan)
 - **🧐 Introduction**: [Learn More](ChatYuan - The first open source dialogue model experience and evaluation in China - Zhihu (zhihu.com))
 - **📖 User Manual**: [How to use ChatYuan](ChatYuan User Manual)
-- **🔒 VPN Required**: Yes
+- **🔒 VPN Required**: Required
 - **🏷️ Category**: Conversation
 
 ### ChatGPT 🗣️
 - **🌐 Official Website**: [Visit ChatGPT](ChatGPT APP latest free download - Android and iOS mobile version | AI Toolset (ai-bot.cn))
 - **🧐 Introduction**: [Learn More](ChatGPT APP latest free download - Android and iOS mobile version | AI Toolset (ai-bot.cn))
 - **📖 User Manual**: Direct Use
-- **🔒 VPN Required**: Yes
+- **🔒 VPN Required**: Required
 - **🏷️ Category**: Conversation
 
 ### FastChat 💨
 - **🌐 Official Website**: [Visit FastChat](https://github.com/lm-sys/FastChat)
 - **🧐 Introduction**: [Learn More](https://sspai.com/post/80121)
 - **📖 User Manual**: [How to use FastChat](FastChat)
-- **🔒 VPN Required**: Yes
+- **🔒 VPN Required**: Required
 - **🏷️ Category**: Conversation
 
 ### Free ChatGPT Site List 📃
 - **🌐 Official Website**: [Visit Free ChatGPT Site List](https://github.com/xx025/carrot)
 - **🧐 Introduction**: [Learn More](https://github.com/xx025/carrot)
 - **📖 User Manual**: [How to use Free ChatGPT Site List](Many free chatgpt usage sites)
-- **🔒 VPN Required**: Yes
+- **🔒 VPN Required**: Required
 - **🏷️ Category**: Conversation
 
 
@@ -364,14 +364,14 @@ The era of AI has arrived 🌐, and it's usually the students of Computer Scienc
 - **🌐 Official Website**: [Visit Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT)
 - **🧐 Introduction**: [Learn More](https://sspai.com/post/80121)
 - **📖 User Manual**: [How to use Auto-GPT](AutoGPT)
-- **🔒 VPN Required**: Yes
+- **🔒 VPN Required**: Required
 - **🏷️ Category**: Proxy
 
 ### Agent-GPT 🕵️‍♂️
 - **🌐 Official Website**: [Visit Agent-GPT](https://github.com/reworkd/AgentGPT)
 - **🧐 Introduction**: [Learn More](https://sspai.com/post/80121)
 - **📖 User Manual**: [How to use Agent-GPT](AgentGPT)
-- **🔒 VPN Required**: Yes
+- **🔒 VPN Required**: Required
 - **🏷️ Category**: Proxy
 
 ## 🤝 How to Contribute
