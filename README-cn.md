@@ -526,11 +526,11 @@ AI时代已经到来🌐，通常都是计算机科学💻与技术专业的学�
 
 ### Chatbot 🤖
 
-*   **🌐 官方网站**：[Visit Chatbot](https://github.com/lobehub/lobe-chat)
+*   **🌐 官方网站**：[访问 Chatbot](https://github.com/lobehub/lobe-chat)
 
 *   **🧐 简介**：[了解更多](https://juejin.cn/post/7342400998855426063)
 
-*   **📖 用户手册**：[How to Use Chatbot](https://github.com/lobehub/lobe-chat/wiki/Intro.zh-CN)
+*   **📖 用户手册**：[如何使用Chatbot](https://github.com/lobehub/lobe-chat/wiki/Intro.zh-CN)
 
 *   **🔒 VPN 要求**：不需要
 
